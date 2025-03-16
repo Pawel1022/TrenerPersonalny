@@ -1,0 +1,27 @@
+// Sections padding itd
+
+.section-hero {
+	padding: 4.8rem 0;
+	background-color: $color-primary-white;
+}
+
+.section-about-me {
+	padding: 9.6rem 0;
+}
+
+.clients{
+	padding: 9.6rem 0;
+}
+
+
+.section-contact {
+	padding: 9.6rem 0;
+}
+
+@media (max-width: $size-xs) {
+	.section-contact {
+		padding: 4.8rem 0;
+	}
+}
+
+
